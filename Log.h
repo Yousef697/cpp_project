@@ -19,3 +19,11 @@ public:
     void Error(const char* message);
     void Info(const char* message);
 };
+
+/***
+ConsoleLog log;
+log.SetLevel(WarningLevel);
+log.Warn("Hello");
+log.Error("Hello");
+log.Info("Hello");
+*/

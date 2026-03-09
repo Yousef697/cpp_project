@@ -35,3 +35,43 @@
 
 1772984995 e:\c++ projects\main\classes.h
 
+1772984898 source:c:\users\yousef\documents\github\cpp_project\classes.cpp
+	<iostream>
+	"classes.h"
+
+1773062967 c:\users\yousef\documents\github\cpp_project\classes.h
+
+1773062998 source:c:\users\yousef\documents\github\cpp_project\log.cpp
+	<iostream>
+	"Log.h"
+
+1773063007 c:\users\yousef\documents\github\cpp_project\log.h
+
+1773067690 source:c:\users\yousef\documents\github\cpp_project\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Log.h"
+	"pointers.h"
+	"classes.h"
+
+1772981872 c:\users\yousef\documents\github\cpp_project\pointers.h
+	<iostream>
+	<climits>
+
+1772684980 source:c:\users\yousef\documents\github\cpp_project\math.cpp
+	<iostream>
+
+1772942809 source:c:\users\yousef\documents\github\cpp_project\pointers.cpp
+	<iostream>
+	<climits>
+
+1772942897 source:c:\users\yousef\documents\github\cpp_project\pointers_main.cpp
+	<iostream>
+	<cstring>
+	"Log.h"
+	"pointers.h"
+
+1773069406 source:c:\users\yousef\documents\github\cpp_project\string_notes.cpp
+	<iostream>
+

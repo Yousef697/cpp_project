@@ -8,12 +8,6 @@ void InitLog() {
     print("Log is Initialized");
 }
 
-/***ConsoleLog log;
-log.SetLevel(WarningLevel);
-log.Warn("Hello");
-log.Error("Hello");
-log.Info("Hello");*/
-
 void ConsoleLog::SetLevel(State level) {
     m_LogLevel = level;
 }
