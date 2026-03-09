@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1772984366 source:e:\c++ projects\main\main.cpp
+	<iostream>
+	<cstring>
+	"Log.h"
+	"pointers.h"
+	"classes.h"
+
+1772979628 source:e:\c++ projects\main\log.cpp
+	<iostream>
+	"Log.h"
+
+1772684980 source:e:\c++ projects\main\math.cpp
+	<iostream>
+
+1772979309 e:\c++ projects\main\log.h
+
+1772942809 source:e:\c++ projects\main\pointers.cpp
+	<iostream>
+	<climits>
+
+1772981872 e:\c++ projects\main\pointers.h
+	<iostream>
+	<climits>
+
+1772942897 source:e:\c++ projects\main\pointers_main.cpp
+	<iostream>
+	<cstring>
+	"Log.h"
+	"pointers.h"
+
+1772984219 source:e:\c++ projects\main\classes.cpp
+	<iostream>
+	"classes.h"
+
+1772984995 e:\c++ projects\main\classes.h
+
