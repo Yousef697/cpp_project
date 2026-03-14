@@ -41,6 +41,7 @@
 		<Unit filename="pointers.cpp" />
 		<Unit filename="pointers.h" />
 		<Unit filename="pointers_main.cpp" />
+		<Unit filename="string_notes.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

@@ -47,10 +47,12 @@
 
 1773063007 c:\users\yousef\documents\github\cpp_project\log.h
 
-1773067690 source:c:\users\yousef\documents\github\cpp_project\main.cpp
+1773126805 source:c:\users\yousef\documents\github\cpp_project\main.cpp
 	<iostream>
 	<cstring>
 	<string>
+	<string_view>
+	<sstream>
 	"Log.h"
 	"pointers.h"
 	"classes.h"
@@ -72,6 +74,6 @@
 	"Log.h"
 	"pointers.h"
 
-1773069406 source:c:\users\yousef\documents\github\cpp_project\string_notes.cpp
+1773069673 source:c:\users\yousef\documents\github\cpp_project\string_notes.cpp
 	<iostream>
 
